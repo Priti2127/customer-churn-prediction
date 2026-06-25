@@ -63,4 +63,4 @@ customer-churn-prediction/
 - SMOTE increased minority class recall from 58% → 74%
 
 ---
-Made by Priti Walunj
+Made by [Priti Walunj](https://github.com/Priti2127)
