@@ -1,5 +1,7 @@
 # 📉 Customer Churn Prediction System
 
+🔗 **[Live Demo](https://priti2127.github.io/customer-churn-prediction/)** &nbsp;|&nbsp; [GitHub Repo](https://github.com/Priti2127/customer-churn-prediction)
+
 An end-to-end machine learning pipeline to predict telecom customer churn, with a web dashboard for real-time predictions.
 
 ## 🏆 Results
